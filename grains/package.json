@@ -1,0 +1,15 @@
+{
+  "name": "grains",
+  "version": "1.0.0",
+  "description": "calculate grains on squares",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tatas Hidayat",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "jest-cli": "^25.1.0"
+  }
+}

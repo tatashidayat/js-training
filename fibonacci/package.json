@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "return sum pof squares of first n fibonacci numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tatas Hidayat",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
